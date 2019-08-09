@@ -1,0 +1,2 @@
+a = "holajej"
+print a
